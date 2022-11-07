@@ -25,7 +25,7 @@ plt.show()
 # Note:
 1. Projection is available to adjust through Cartopy.  
 
-2. Instead of using contourf, use contour to plot single contour for the landfrac(better to plot single contour).  
+2. Instead of using contourf, use contour to plot single contour for the landfrac(better to plot a single outline).  
 
 3. You could change the colorbar of landfrac and the alpha(transparency) to make the figure better.    
 
