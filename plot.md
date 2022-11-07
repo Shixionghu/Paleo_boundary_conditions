@@ -29,4 +29,6 @@ plt.show()
 
 3. You could change the colorbar of landfrac and the alpha(transparency) to make the figure better.    
 
-      
+
+# Figure
+<img width="862" alt="Screen Shot 2022-11-07 at 4 49 21 PM" src="https://user-images.githubusercontent.com/89747610/200422627-5993cf72-89cc-4f26-b7da-05d27812ae99.png">
