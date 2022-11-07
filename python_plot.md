@@ -21,6 +21,8 @@ plt.show()
 ```
 # Packages
   Matplotlib, Cartopy should be enough...   
+  
+  cmaps is the package I used for colorbar, not that important to the code itself if you have other cmap to use.   
  
 # Note:
 1. Projection is available to adjust through Cartopy.  
