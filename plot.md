@@ -1,4 +1,6 @@
-fig = plt.figure(figsize=[15,10])
+#Python Plot for Paleo Boundary Condition
+
+`fig = plt.figure(figsize=[15,10])`
 
 ax = plt.axes(projection=ccrs.PlateCarree())
 
